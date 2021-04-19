@@ -7,5 +7,5 @@ El resultado fué un amplificador de audio que proporciona un sonido mucho más 
 
 En una futura versión se busca mejorar el diseño propuesto.
 
-<img src = "/Valvular_Amplifier/Amplificador Valvular 1.0/IMG_20180318_132752864.jpg" >
+<img src = "/Amplificador Valvular 1.0/IMG_20180318_132752864.jpg" >
 
