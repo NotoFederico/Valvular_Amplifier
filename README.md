@@ -22,7 +22,7 @@
 
 # 1. Introduction
 
-Personal project developed with KICAD. In order to learn about valve technology and its uses in the world of audio.
+Personal project developed with KiCAD. In order to learn about valve technology and its uses in the world of audio.
 The result was an audio amplifier that provides a much warmer and deeper sound to the user's ears.
 
 ---
