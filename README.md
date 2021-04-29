@@ -2,14 +2,14 @@
 
 ---
 
-<img src=https://github.com/NotoFederico/Valvular_Amplifier/blob/main/Amplificador%20Valvular%201.0/IMG_20180318_132752864.jpg" width="600" height="400" />
+<img src="https://github.com/NotoFederico/Valvular_Amplifier/blob/main/Amplificador%20Valvular%201.0/IMG_20180318_132752864.jpg" width="600" height="400" />
 
 ---
 
 ### Download
 | Latest release | Latest development build |
 |----------------|--------------------------|
-| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](Enlace a la version actual) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](Enlace a la version en desarrollo) |
+| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/Valvular_Amplifier/tree/main/Amplificador%20Valvular%201.0) | [![Noto](https://img.shields.io/badge/develop-v2.0+-blue.svg)](https://github.com/NotoFederico/Valvular_Amplifier/tree/main/Amplificador%20Valvular%202.0) |
 
 ---
 
@@ -26,10 +26,8 @@
 
 # 1. Introduction
 
-Proyecto personal desarrollado en KICAD, con el fin de conocer la tecnologia valvular y sus usos en el mundo del audio.
-El resultado fué un amplificador de audio que proporciona un sonido mucho más cálido y grave para los oidos del usuario.
-
-En una futura versión se busca mejorar el diseño propuesto.
+Personal project developed with KICAD. In order to learn about valve technology and its uses in the world of audio.
+The result was an audio amplifier that provides a much warmer and deeper sound to the user's ears.
 
 ---
 
