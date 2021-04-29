@@ -2,7 +2,7 @@
 
 ---
 
-![Project.Cover](/Amplificador Valvular 1.0/IMG_20180318_132752864.jpg)
+<img src=https://github.com/NotoFederico/Valvular_Amplifier/blob/main/Amplificador%20Valvular%201.0/IMG_20180318_132752864.jpg" width="600" height="400" />
 
 ---
 
