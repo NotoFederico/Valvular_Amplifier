@@ -34,4 +34,4 @@ Pong Game uses the [gitflow workflow](https://www.atlassian.com/git/tutorials/co
 ---
 
 # 3. Licence
-Pig Game is licensed under the GNU General Public License version 3.
+Valvular Amplifier is licensed under the GNU General Public License version 3.
